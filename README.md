@@ -1,7 +1,7 @@
 # mapsToCoord
 
 Gets `Google.maps` link and changes it into coordinates that can be used into a map.
-
+ 
 ## Technology used
 
 I coded this program using [`NodeJs`](https://github.com/nodejs/node) and [`GoogleApi`](https://github.com/googleapis/google-api-nodejs-client). I also used `MySQL` to store the database I used that has all the `GoogleMaps` links.
